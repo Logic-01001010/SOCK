@@ -11,7 +11,7 @@ int main(int argc, char* argv[])
     int sock;
 
     struct sockaddr_in serv_addr;
-    char response[10024];
+    char response[999999];
     int str_len;
 
     
