@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
 
     if(argc != 2)
     {
-        printf("Usasge : %s <Domain>\n", argv[0]);
+        printf("Usage : %s <Domain>\n", argv[0]);
         return -1;
     }
 
